@@ -1,0 +1,11 @@
+{
+    "curly": true,
+    "eqeqeq": true,
+    "eqnull": true,
+    "browser": true,
+    "loopfunc": true,
+    "undef": true,
+    "sub": true,
+    "globals": {
+    }
+}
