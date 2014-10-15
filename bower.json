@@ -1,25 +1,28 @@
 {
-  "name": "simple-inheritance",
-  "version": "1.0.0",
-  "homepage": "https://github.com/html5crew/simple-inheritance",
-  "authors": [
-    "ejohn",
-    "shakyShane",
-    "ragiragi"
-  ],
-  "description": "John Resig's Simple Javascript Inheritance",
-  "main": "class.js",
-  "keywords": [
-    "inheritance",
-    "class",
-    "extend"
-  ],
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+    "name": "simple-inheritance",
+    "version": "1.0.0",
+    "homepage": "https://github.com/html5crew/simple-inheritance",
+    "authors": [
+        "ejohn",
+        "shakyShane",
+        "ragiragi"
+    ],
+    "description": "John Resig's Simple Javascript Inheritance",
+    "main": "class.js",
+    "keywords": [
+        "inheritance",
+        "class",
+        "extend"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "*_spec.js",
+        "karma.conf.js",
+        "package.json",
+        "gruntfile.js",
+        "README.md"
+    ]
 }
