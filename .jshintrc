@@ -7,5 +7,6 @@
     "undef": true,
     "sub": true,
     "globals": {
+        "Class": false
     }
 }
