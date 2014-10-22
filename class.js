@@ -66,10 +66,12 @@
         }
 
         // The new constructor
-        var newClass = typeof proto.init === "function" ?
-            proto.init : // All construction is actually done in the init method
-            function () {
-            };
+        var newClass = function () {
+            if (typeof this.init === "function") {
+                this.init.apply(this, arguments);
+            }
+        };
+
 
         // Populate our constructed prototype object
         newClass.prototype = proto;
