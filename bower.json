@@ -5,7 +5,8 @@
     "authors": [
         "ejohn",
         "shakyShane",
-        "ragiragi"
+        "ragiragi",
+        "eastkiki"
     ],
     "description": "John Resig's Simple Javascript Inheritance",
     "main": "class.js",
