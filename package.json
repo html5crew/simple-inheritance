@@ -4,6 +4,8 @@
   "description": "John Resig's Simple JavaScript Inheritance",
   "main": "class.js",
   "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-release": "^0.7.0",
     "karma": "^0.12.24",
     "karma-jasmine": "^0.1.5",
     "karma-phantomjs-launcher": "^0.1.4"
