@@ -3,11 +3,6 @@
   "version": "1.0.0",
   "description": "John Resig's Simple JavaScript Inheritance",
   "main": "class.js",
-  "dependencies": {
-    "karma-chrome-launcher": "^0.1.5",
-    "karma": "^0.12.24",
-    "karma-jasmine": "^0.1.5"
-  },
   "devDependencies": {
     "karma": "^0.12.24",
     "karma-jasmine": "^0.1.5",
